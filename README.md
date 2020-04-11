@@ -2,7 +2,7 @@
 
 This repository contains the notebooks for the CA_AI_2020 course.
 
-As this repository and the notebooks within it will be updated constantsly, it is recommended
+As this repository and the notebooks within it will be updated constantly, it is recommended
 to separate the current course contents after cloning the repository as given below:
 
 ![GitHub Platform | Workspace Split Recommendations](/img/course_github.png)
@@ -106,7 +106,9 @@ but instead just `activate cai`
 
 ## 4. Get started!!!
 Once you have set up your conda requirement, you are ready to start working with Jupyter notebooks. You are advised
-to navigate via terminal to the folder containing your course files before running Jupyter,
+to navigate via terminal to the folder containing your course files before running Jupyter.
+
+**Note:** You will also have to get the files first. To do so, install Git by running `conda install -c anaconda git` and clone this repository via `git clone https://github.com/povilaspazera/CA_AI_2020.git`.
 
 1. Activate the conda environment: `source activate cai`
 2. Navigate to the folder containing course files, e.g.: `cd /home/povilas/Desktop/CA_AI_2020`
